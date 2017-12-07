@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['pi_2ec',['pi.c',['../pi_8c.html',1,'']]],
+  ['pi_2eh',['pi.h',['../pi_8h.html',1,'']]],
+  ['pi_5fcontroller',['pi_controller',['../pi_8c.html#ad2c955f900b9b2ddc0439679fcd19516',1,'pi_controller(int16_t set_point, int16_t measurement, struct pi_t *regulator_p):&#160;pi.c'],['../pi_8h.html#ad2c955f900b9b2ddc0439679fcd19516',1,'pi_controller(int16_t set_point, int16_t measurement, struct pi_t *regulator_p):&#160;pi.c']]],
+  ['pi_5finit',['pi_init',['../pi_8c.html#a9fb387ba3891b17239d64260e0fdc9bf',1,'pi_init(int16_t Kp_set, int16_t Ki_set, struct pi_t *regulator_p):&#160;pi.c'],['../pi_8h.html#a9fb387ba3891b17239d64260e0fdc9bf',1,'pi_init(int16_t Kp_set, int16_t Ki_set, struct pi_t *regulator_p):&#160;pi.c']]],
+  ['pi_5freset_5fintegrator',['pi_reset_integrator',['../pi_8c.html#af702450d4021f15aaef7e513dd77a8a6',1,'pi_reset_integrator(struct pi_t *regulator_p):&#160;pi.c'],['../pi_8h.html#af702450d4021f15aaef7e513dd77a8a6',1,'pi_reset_integrator(struct pi_t *regulator_p):&#160;pi.c']]],
+  ['pi_5ft',['pi_t',['../structpi__t.html',1,'']]],
+  ['pingpong',['pingpong',['../fonts_8h.html#a4023389e2c13631e28c52f1ce540ce25',1,'fonts.h']]],
+  ['play_5fgame',['play_game',['../play__game__node2_8c.html#a17471c537659747b95c3c2aa8b22790b',1,'play_game():&#160;play_game_node2.c'],['../play__game__node2_8h.html#a17471c537659747b95c3c2aa8b22790b',1,'play_game():&#160;play_game_node2.c']]],
+  ['play_5fgame_2ec',['play_game.c',['../play__game_8c.html',1,'']]],
+  ['play_5fgame_2eh',['play_game.h',['../play__game_8h.html',1,'']]],
+  ['play_5fgame_5fnode2_2ec',['play_game_node2.c',['../play__game__node2_8c.html',1,'']]],
+  ['play_5fgame_5fnode2_2eh',['play_game_node2.h',['../play__game__node2_8h.html',1,'']]],
+  ['play_5fgame_5fstate',['play_game_state',['../state__machine_8h.html#aa0aafed44fec19806d8f9ad834be1248a063ad1179ed4f834028d9e0732bc15b5',1,'state_machine.h']]],
+  ['play_5fnew_5fgame',['play_new_game',['../play__game_8c.html#aa9f439f29ec899b1ad60f0a920fa4564',1,'play_new_game(struct joystick_calibration_data_t *joy_cal, struct slider_calibration_data_t *slider_cal, struct highscore_entry_t *highscore_list_p):&#160;play_game.c'],['../play__game_8h.html#aa9f439f29ec899b1ad60f0a920fa4564',1,'play_new_game(struct joystick_calibration_data_t *joy_cal, struct slider_calibration_data_t *slider_cal, struct highscore_entry_t *highscore_list_p):&#160;play_game.c']]],
+  ['print_5fjoystick_5fcalibration',['print_joystick_calibration',['../print__variables_8c.html#a37c1879a29ec2347a89eaeb13f367027',1,'print_joystick_calibration(struct joystick_calibration_data_t *cal_data):&#160;print_variables.c'],['../print__variables_8h.html#a37c1879a29ec2347a89eaeb13f367027',1,'print_joystick_calibration(struct joystick_calibration_data_t *cal_data):&#160;print_variables.c']]],
+  ['print_5fjoystick_5fvariables',['print_joystick_variables',['../print__variables_8c.html#aa374df648ec78f2512e308c8646a8730',1,'print_joystick_variables(struct joystick_calibration_data_t *cal_data):&#160;print_variables.c'],['../print__variables_8h.html#aa374df648ec78f2512e308c8646a8730',1,'print_joystick_variables(struct joystick_calibration_data_t *cal_data):&#160;print_variables.c']]],
+  ['print_5fslider_5fcalibration',['print_slider_calibration',['../print__variables_8c.html#ab8b9900863d70623718c0a137ecc4b54',1,'print_slider_calibration(struct slider_calibration_data_t *cal_data):&#160;print_variables.c'],['../print__variables_8h.html#ab8b9900863d70623718c0a137ecc4b54',1,'print_slider_calibration(struct slider_calibration_data_t *cal_data):&#160;print_variables.c']]],
+  ['print_5fslider_5fvariables',['print_slider_variables',['../print__variables_8c.html#accc569995ed37381921a28a71941e9a3',1,'print_slider_variables(struct slider_calibration_data_t *cal_data):&#160;print_variables.c'],['../print__variables_8h.html#accc569995ed37381921a28a71941e9a3',1,'print_slider_variables(struct slider_calibration_data_t *cal_data):&#160;print_variables.c']]],
+  ['print_5fvariables_2ec',['print_variables.c',['../print__variables_8c.html',1,'']]],
+  ['print_5fvariables_2eh',['print_variables.h',['../print__variables_8h.html',1,'']]],
+  ['pwm_5fdriver_5fnode2_2ec',['pwm_driver_node2.c',['../pwm__driver__node2_8c.html',1,'']]],
+  ['pwm_5fdriver_5fnode2_2eh',['pwm_driver_node2.h',['../pwm__driver__node2_8h.html',1,'']]],
+  ['pwm_5finit',['pwm_init',['../pwm__driver__node2_8c.html#a9d4b4f6d1b5a60cbe00efb4dfaac7f73',1,'pwm_init(int period_ms):&#160;pwm_driver_node2.c'],['../pwm__driver__node2_8h.html#a2847f9e5c10cc20b1699946600617d03',1,'pwm_init():&#160;pwm_driver_node2.h']]],
+  ['pwm_5fset_5fduty_5fmicro',['pwm_set_duty_micro',['../pwm__driver__node2_8c.html#a4478f882c6a3b0f5ff07533c749a5a59',1,'pwm_set_duty_micro(uint16_t duty_cycle_micro):&#160;pwm_driver_node2.c'],['../pwm__driver__node2_8h.html#a4478f882c6a3b0f5ff07533c749a5a59',1,'pwm_set_duty_micro(uint16_t duty_cycle_micro):&#160;pwm_driver_node2.c']]]
+];
